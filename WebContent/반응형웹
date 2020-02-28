@@ -1,0 +1,27 @@
+반응형 웹
+- 정의 : 하나의 웹 사이트에서 PC, 테블릿 PC, 스마트폰 등 접속하는 디스플레이의 종류에 따라
+    화면의 크기가 자동으로 변하도록 만든 웹페이지 접근 기법을 말함.     
+- 웹 사이트를 PC용과 태블릿 PC, 모바일용으로 각각 별개로 제작하지 않고, 하나의 공용 웹사이트를
+    만들어 다양한 디바이스에 대응할 수 있다는 장점이 있음.
+- 웹 페이지의 내용을 수정할 경우, 하나의 페이지만 수정하면 다양한 디바이스에서 동일하게 반영되는
+    장점이 있음.
+- 반응형 웹의 핵심 기술은 가변 그리드, 유연한 이미지, 그리고 미디어 쿼리가 중요한 핵심 기능이다.
+
+- 가장 많이 사용되는 반응형 웹 제작 도구는 부트스트랩
+
+부트스트랩 css
+<link rel="stylesheet" href="CSS/bootstrap-3.4.1.css">
+
+부트스트랩 js
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+제이쿼리 js
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+폰트어섬 css   
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+ 썸머노트
+    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.16/dist/summernote.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.16/dist/summernote.min.js"></script>
+        
